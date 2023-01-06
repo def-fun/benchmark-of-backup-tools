@@ -1,0 +1,11 @@
+231ce1b2d571293f474e7afb56f2d0abf68e4df5  DIR-FOR-TEST/rename-dir/100M-for-rename-dir-test.bin
+4c52dc72cfb521e5981815fe6725ef02627b22ec  DIR-FOR-TEST/edit/100M-for-edit-test.bin
+77e00d717bc0edd22cccf32c814cdec1e341f236  DIR-FOR-TEST/rename-file/100M-for-rename-file-test.bin
+8617ca539cbea26975f17d75d1e33034dcb39d0f  DIR-FOR-TEST/string.txt
+9e3b875ebc2641d7457bb3728eaf77546b2a5743  DIR-FOR-TEST/100M.bin1
+9e3b875ebc2641d7457bb3728eaf77546b2a5743  DIR-FOR-TEST/100M.bin4
+9e3b875ebc2641d7457bb3728eaf77546b2a5743  DIR-FOR-TEST/duplicate/100M.bin1
+9e3b875ebc2641d7457bb3728eaf77546b2a5743  DIR-FOR-TEST/duplicate/100M.bin2
+9e3b875ebc2641d7457bb3728eaf77546b2a5743  DIR-FOR-TEST/duplicate/100M.bin3
+ed17e341f67e827927d9d5c2a73740425820be13  DIR-FOR-TEST/move/100M-for-move-test.bin
+f03bce119882000ad301cbf2d4b7afe6eb37ed89  DIR-FOR-TEST/delete/100M-for-delete-test.bin
