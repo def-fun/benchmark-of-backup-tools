@@ -1,9 +1,24 @@
 Benchmark of backup tools
 ----
+https://github.com/topics/backup
 
-[rdiff-backup](https://github.com/rdiff-backup/rdiff-backup)
-[backupPC](https://github.com/backuppc/backuppc)
-restic
+- [attic](https://attic-backup.org/)
+- [nackup](https://github.com/backup/backup)
+- [backupPC](https://github.com/backuppc/backuppc)
+- [borg](https://github.com/borgbackup/borg)
+- [bup](https://github.com/bup/bup)
+- [duplicati](https://github.com/duplicati/duplicati)
+- [duplicacy](https://duplicacy.com/)
+- [duplicity](https://duplicity.gitlab.io/)
+- [kopia](https://github.com/kopia/kopia)
+- [linux-timemachine](https://github.com/cytopia/linux-timemachine)
+- [obnam](https://obnam.org/)
+- [rdiff-backup](https://github.com/rdiff-backup/rdiff-backup)
+- [rdedup](https://github.com/dpc/rdedup)
+- [restic](https://github.com/restic/restic)
+- [urbackup](https://www.urbackup.org/)
+- [rsync-time-backup](https://github.com/laurent22/rsync-time-backup)
+- [zbackup](https://github.com/zbackup/zbackup)
 
 before changed
 
@@ -103,6 +118,7 @@ no errors were found
 ```
 
 show stats
+
 ```shell
 #restic -p sha1.checksum stats -r RESTIC-TEST/
 repository 6d6ece4e opened successfully, password is correct
